@@ -1,0 +1,105 @@
+{
+  "logos": [
+    {
+      "name": "Amphenol LTW",
+      "file": "amphenol-ltw.jpg",
+      "asset": "https://amphenolltw.com/html/05/images/logo.jpg",
+      "source": "https://amphenolltw.com/",
+      "status": "downloaded",
+      "dimensions": [
+        2708,
+        458
+      ]
+    },
+    {
+      "name": "Zonli Home",
+      "file": "zonli.png",
+      "asset": "https://img-va.myshopline.com/image/store/1773640141242/-2.png?w=714&h=367",
+      "source": "https://www.zonlihome.com/",
+      "status": "downloaded",
+      "dimensions": [
+        714,
+        367
+      ]
+    },
+    {
+      "name": "Virtual Office Angels",
+      "file": "virtual-office-angels.png",
+      "asset": "https://virtualofficeangels.com.au/wp-content/uploads/2017/10/cropped-voa-logo.png",
+      "source": "https://virtualofficeangels.com.au/",
+      "status": "downloaded",
+      "dimensions": [
+        240,
+        46
+      ]
+    },
+    {
+      "name": "Paseo Outlets",
+      "file": "paseo-outlets.png",
+      "asset": "https://www.paseooutlets.com.ph/wp-content/uploads/2021/09/Paseo-Outlets-logo-opt-2.png",
+      "source": "https://www.paseooutlets.com.ph/",
+      "status": "downloaded",
+      "dimensions": [
+        208,
+        156
+      ]
+    },
+    {
+      "name": "First Aviation Academy",
+      "file": "first-aviation-academy.png",
+      "asset": "https://firstaviationacademy.com/wp-content/uploads/2020/06/faa-logo.png",
+      "source": "https://firstaviationacademy.com/",
+      "status": "downloaded",
+      "dimensions": [
+        262,
+        61
+      ]
+    },
+    {
+      "name": "Sekkei Digital Group",
+      "file": "sekkei-digital-group.png",
+      "asset": "https://sekkeidigitalgroup.com/wp-content/uploads/2022/06/black-color.png",
+      "source": "https://sekkeidigitalgroup.com/",
+      "status": "downloaded",
+      "dimensions": [
+        967,
+        557
+      ]
+    },
+    {
+      "name": "Sevensharp Creatives",
+      "file": "sevensharp-creatives.webp",
+      "asset": "https://sevensharpcreatives.com/build/assets/sevensharp-creatives-logo-BLnsvB2L.webp",
+      "source": "https://sevensharpcreatives.com/",
+      "status": "downloaded",
+      "dimensions": [
+        500,
+        157
+      ]
+    },
+    {
+      "name": "Alorica Philippines",
+      "file": "alorica.png",
+      "asset": "https://alorica.com/wp-content/uploads/2026/04/header-logo.png",
+      "source": "https://alorica.com/",
+      "status": "downloaded"
+    },
+    {
+      "name": "First Academy of Computer Arts",
+      "file": "first-academy.webp",
+      "asset": "https://sevensharpcreatives.com/storage/work_block_images/first-academy-of-computer-arts-logo.webp",
+      "source": "https://sevensharpcreatives.com/works/first-academy-of-computer-arts",
+      "status": "downloaded"
+    },
+    {
+      "name": "Alu General Merchandise",
+      "file": "alu-general-merchandise.png",
+      "source": "https://www.facebook.com/ALUHardwareConstructionSupply/",
+      "status": "downloaded"
+    }
+  ],
+  "text_credits_pending_verified_logo": [
+    "Nody Media",
+    "Creative Network Advertising"
+  ]
+}

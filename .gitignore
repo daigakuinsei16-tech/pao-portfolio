@@ -1,0 +1,17 @@
+# Local Vercel project linkage and editor/OS files.
+.vercel/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local Sites hosting metadata is unrelated to the GitHub/Vercel deployment.
+.openai/
+
+# The page no longer links to the original CV; keep the local copy private.
+dist/assets/paola-limin-cv.pdf
+
+# Keep future local environment files out of the repository.
+.env
+.env.*
+!.env.example

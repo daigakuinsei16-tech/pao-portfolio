@@ -1,0 +1,3 @@
+# Also protect local CLI deployments, which upload directly from this folder.
+.openai/
+dist/assets/paola-limin-cv.pdf

@@ -1,0 +1,162 @@
+{
+  "website": "Paola Limin Portfolio",
+  "source_commit": "92a235dbce97d034e22aee7edd7d03b43eeeaf5d",
+  "exported_at": "2026-10-18T15:14:17.830830+00:00",
+  "files": [
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 106,
+      "sha256": "c737a9eaa26c4ea40b732d8ee0705ca9c060a66ff765e2efd219f254c48b60f4"
+    },
+    {
+      "path": "DEVELOPMENT_NOTES.md",
+      "bytes": 2266,
+      "sha256": "2968bdcf061322114198347201b3fccb73e225d25934a6b88a2b42c24e38af19"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3143,
+      "sha256": "b603cbd3aeb2baf13f1176093dd85550825e38957c0d60dba0ec65c912feb025"
+    },
+    {
+      "path": "dist/app.js",
+      "bytes": 12309,
+      "sha256": "42aaa47a7d5cd8c05bf66c35b35797f34c8b1d96ef30ad76a74a0e1351ed0f97"
+    },
+    {
+      "path": "dist/assets/aries.jpg",
+      "bytes": 162758,
+      "sha256": "65dfc932b29d251f63730cbc13d03214951b9f57b6670567780c66e693393621"
+    },
+    {
+      "path": "dist/assets/braveity.png",
+      "bytes": 796525,
+      "sha256": "d69c68eebd174c594bf7083680a909329e814d13c9b8b78f870fa83fcec7a82f"
+    },
+    {
+      "path": "dist/assets/demons.png",
+      "bytes": 931809,
+      "sha256": "0029d2b69a22bb0e4b6c4f06c2165f1494610ea28862868957dc1136d466419b"
+    },
+    {
+      "path": "dist/assets/editorial-italic.otf",
+      "bytes": 109824,
+      "sha256": "1feac6055211cf5c6c812c026e398195070f174064cc4d390f0db01647443b0e"
+    },
+    {
+      "path": "dist/assets/editorial-roman.otf",
+      "bytes": 110236,
+      "sha256": "f054a7389d8d0e9f4c5f7b4c21feb7e2b14bec8004a1e92778a78d149524eea9"
+    },
+    {
+      "path": "dist/assets/favicon.svg",
+      "bytes": 207,
+      "sha256": "75e4c1f3c0f355b597c0d48be7d651ca540b1ef6d669c0cd576ac21a43fa49d7"
+    },
+    {
+      "path": "dist/assets/logos/alorica.png",
+      "bytes": 2445,
+      "sha256": "783ce448c3fca2097f14339893687e06294fa162c0ef41314063349d71d45e7a"
+    },
+    {
+      "path": "dist/assets/logos/alu-general-merchandise.png",
+      "bytes": 73764,
+      "sha256": "95828c37d3e131814dabf578625952920301d8b4c607370b0668a0dfb60a08d0"
+    },
+    {
+      "path": "dist/assets/logos/amphenol-ltw.jpg",
+      "bytes": 173451,
+      "sha256": "8db4e8d8d88d38d9a68c80cd6e33b7a2e01a31582c91ba01fa7f2294073fa688"
+    },
+    {
+      "path": "dist/assets/logos/first-academy.webp",
+      "bytes": 14276,
+      "sha256": "6b53689e88936d71f94bacc5bfb320b2b9509d8c0debf7ea8ad8b70fee5e8c92"
+    },
+    {
+      "path": "dist/assets/logos/first-aviation-academy.png",
+      "bytes": 3145,
+      "sha256": "fb4c852f2cd58c46e7aef2e12c955317f7e9d0885b31bf0ec456abf7a7a31aae"
+    },
+    {
+      "path": "dist/assets/logos/paseo-outlets.png",
+      "bytes": 5686,
+      "sha256": "b1093ad44bd3dcc49ba46d28cae8796057346dff7071b5b1e1a6fc7236e3efe2"
+    },
+    {
+      "path": "dist/assets/logos/sekkei-digital-group.png",
+      "bytes": 12588,
+      "sha256": "5f160937d30c4fb1b092f65bdd3d8d330814de2aecfdf7c247dd9575b575676e"
+    },
+    {
+      "path": "dist/assets/logos/sevensharp-creatives.webp",
+      "bytes": 9506,
+      "sha256": "f3769fa26b32878434649cbbb26d650f75c935ba9e30e3d266078f80cbd1a4e0"
+    },
+    {
+      "path": "dist/assets/logos/virtual-office-angels.png",
+      "bytes": 3507,
+      "sha256": "858a8318c446849c60ee8765b83b70a6ae48b7986fc07113d8a5d44a1b21cfc4"
+    },
+    {
+      "path": "dist/assets/logos/zonli.png",
+      "bytes": 16743,
+      "sha256": "739bb9e1d88de691a1eb28cdf1c294738476be4b4a9aae60e739508548b049b3"
+    },
+    {
+      "path": "dist/assets/paola-limin-cv.pdf",
+      "bytes": 3164500,
+      "sha256": "39f7924c6d0955fea2f269564d6a20ddb865d99c93c3b96456d4ab24534a95bc"
+    },
+    {
+      "path": "dist/assets/paola-limin-portrait.jpg",
+      "bytes": 153769,
+      "sha256": "e1b97c2e27d08c76edf8eeb80efd1f83d024c8dc4b392cc3ce9a6e9f5e80c5ce"
+    },
+    {
+      "path": "dist/assets/queen.png",
+      "bytes": 972690,
+      "sha256": "d873b01f7b4649a0ea3fa6b0f78b3967171604f9b096bf085f73ca1fbaa2e20b"
+    },
+    {
+      "path": "dist/assets/sans-bold.otf",
+      "bytes": 83264,
+      "sha256": "7f33328e6b4d4cd21b45fa625791928c9407dc702db6780e56b09ca9a3ecaa67"
+    },
+    {
+      "path": "dist/assets/sans-regular.otf",
+      "bytes": 82264,
+      "sha256": "7c25be4d78155523080ab85b10277150657ff7dabbcad7037bdd536c9b6d0d08"
+    },
+    {
+      "path": "dist/assets/wednesdays.png",
+      "bytes": 693909,
+      "sha256": "be69faf264a1cca24f2d26681b3bb1c780e78a78ffde9d9905261de0cf6887bf"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 16439,
+      "sha256": "c27e42eaac53e418dca38cfb3a2ed6a3a42aee9cccd5aff8f6cdd9f8aeeaa6d1"
+    },
+    {
+      "path": "dist/style.css",
+      "bytes": 40540,
+      "sha256": "f44694be580614f1ef79ed20d317c6ad9046cc30884e752e432f41a53985e2e8"
+    },
+    {
+      "path": "licenses/FONT_RESOURCES.md",
+      "bytes": 649,
+      "sha256": "0b0a454364aee7413636a66fc6ad530e0bc4c78d976d1381f7d52d2c7a72d27b"
+    },
+    {
+      "path": "licenses/URW-Base35-COPYRIGHT.txt",
+      "bytes": 52517,
+      "sha256": "1315a62758a603a3e6e87a79b8389563789c59c1740b9db8bc2b20e2e2145458"
+    },
+    {
+      "path": "logo-sources.json",
+      "bytes": 3084,
+      "sha256": "78731baec5cf73b1070dd2d5979ed2903999af26686cf1a296165fb924bf7a69"
+    }
+  ]
+}
